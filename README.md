@@ -17,3 +17,7 @@ Example above shows that the folder is located in a documents folder.
 
 note: sometimes when you run the batch file, it does not work automatically, idk why.
 Im fixing it rn.
+
+DOWNLOAD:
+
+You can clone the repository or going into the releases.
